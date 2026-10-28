@@ -1,0 +1,8 @@
+# Logs
+*.log
+
+# Data directories (if any local mounts are used)
+mytb-data/
+mytb-logs/
+data/
+logs/
